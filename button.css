@@ -1,0 +1,16 @@
+.btn-main {
+  display: inline-block;
+  margin-top: 30px;
+  padding: 14px 26px;
+  border-radius: 10px;
+  background: #5565D4;
+  color: white;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.btn-main:hover {
+  background: #3B5BBE;
+}
+
